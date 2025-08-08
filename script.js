@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
   let todosNotebooks = [];
 
-  fetch('./data/notebooks.json')
+  fetch('data/notebooks.json')
     .then(response => response.json())
     .then(data => {
       todosNotebooks = data;
@@ -73,3 +73,4 @@ function popularFiltros(notebooks) {
     seletor.appendChild(option);
   });
 }
+
