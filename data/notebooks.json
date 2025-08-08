@@ -1,0 +1,72 @@
+[
+  {
+    "nome": "ASUS TUF A15 (RTX 2050, Ryzen 7)",
+    "imagem": "../img/asus.webp",
+    "descricao": "Notebook gamer com bom sistema de resfriamento, durável e com bom desempenho para jogos e edição de vídeo leve.",
+    "cpu": "Ryzen 7 7735HS",
+    "ram": "8GB (expansível até 32GB)",
+    "ssd": "512GB NVMe",
+    "tela": "15.6\" IPS Full HD 144Hz",
+    "gpu": "NVIDIA RTX 2050 4GB",
+    "sistema": "Windows 11",
+    "positivos": ["Boa construção (militar)", "Bom desempenho térmico", "Upgrade fácil"],
+    "negativos": ["Tela 60Hz em alguns modelos", "GPU de entrada (RTX 2050)"],
+    "perfil": ["Gamer", "Criador de conteúdo", "Multitarefa"]
+  },
+  {
+    "nome": "Lenovo LOQ-E (RTX 3050, i5 12ª)",
+    "imagem": "../img/loq.avif",
+    "descricao": "Notebook gamer intermediário com GPU superior e bom custo-benefício.",
+    "cpu": "Intel Core i5-12450H",
+    "ram": "8GB (expansível até 16GB)",
+    "ssd": "512GB NVMe",
+    "tela": "15.6\" IPS Full HD 120Hz",
+    "gpu": "NVIDIA RTX 3050 6GB",
+    "sistema": "Windows 11",
+    "positivos": ["GPU melhor (RTX 3050)", "Boa refrigeração", "Design discreto"],
+    "negativos": ["SSD de fábrica pequeno", "Tela apenas ok"],
+    "perfil": ["Gamer", "Criador de conteúdo", "Usuário"]
+  },
+  {
+    "nome": "Acer Aspire 5 (Ryzen 7 5700U, 16GB)",
+    "imagem": "../img/aspire.webp",
+    "descricao": "Notebook para produtividade com ótimo desempenho multitarefa e bom custo-benefício.",
+    "cpu": "Ryzen 7 5700U",
+    "ram": "16GB DDR4",
+    "ssd": "512GB SSD",
+    "tela": "15.6\" IPS Full HD",
+    "gpu": "Integrada Radeon Vega 8",
+    "sistema": "Windows 11",
+    "positivos": ["Boa autonomia de bateria", "Tela IPS em alguns modelos", "Desempenho consistente"],
+    "negativos": ["Sem GPU dedicada", "Construção simples"],
+    "perfil": ["Estudante", "Programador", "Analista de dados", "Escritório"]
+  },
+  {
+    "nome": "Lenovo IdeaPad Slim 3 (i5 13ª, IPS)",
+    "imagem": "../img/ideapad.avif",
+    "descricao": "Notebook com tela IPS, leve, expansível e com desempenho decente para trabalho e estudos.",
+    "cpu": "Intel Core i5-1335U",
+    "ram": "8GB (soldada, com slot adicional)",
+    "ssd": "512GB SSD",
+    "tela": "15.6\" IPS Full HD",
+    "gpu": "Intel Iris Xe",
+    "sistema": "Windows 11",
+    "positivos": ["Tela IPS", "Expansível", "Leve e portátil"],
+    "negativos": ["Refrigeração limitada", "Construção em plástico"],
+    "perfil": ["Estudante", "Escritório", "Trabalho remoto"]
+  },
+  {
+    "nome": "VAIO FE16",
+    "imagem": "../img/vaio.webp",
+    "descricao": "Modelo com construção elegante e bom desempenho para tarefas do dia a dia.",
+    "cpu": "Intel Core i5-1235U",
+    "ram": "8GB DDR4",
+    "ssd": "256GB SSD",
+    "tela": "16.1\" Full HD LED",
+    "gpu": "Intel Iris Xe",
+    "sistema": "Windows 11",
+    "positivos": ["Tela Full HD grande", "Bom teclado", "Design sóbrio"],
+    "negativos": ["Pouca assistência técnica", "Preço acima da média"],
+    "perfil": ["Usuário", "Trabalho leve", "Conforto visual"]
+  }
+]
