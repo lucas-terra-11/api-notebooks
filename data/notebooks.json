@@ -1,7 +1,7 @@
 [
   {
     "nome": "ASUS TUF A15 (RTX 2050, Ryzen 7)",
-    "imagem": "../img/asus.webp",
+    "imagem": "img/asus.webp",
     "descricao": "Notebook gamer com bom sistema de resfriamento, durável e com bom desempenho para jogos e edição de vídeo leve.",
     "cpu": "Ryzen 7 7735HS",
     "ram": "8GB (expansível até 32GB)",
@@ -15,7 +15,7 @@
   },
   {
     "nome": "Lenovo LOQ-E (RTX 3050, i5 12ª)",
-    "imagem": "../img/loq.avif",
+    "imagem": "img/loq.avif",
     "descricao": "Notebook gamer intermediário com GPU superior e bom custo-benefício.",
     "cpu": "Intel Core i5-12450H",
     "ram": "8GB (expansível até 16GB)",
@@ -29,7 +29,7 @@
   },
   {
     "nome": "Acer Aspire 5 (Ryzen 7 5700U, 16GB)",
-    "imagem": "../img/aspire.webp",
+    "imagem": "img/aspire.webp",
     "descricao": "Notebook para produtividade com ótimo desempenho multitarefa e bom custo-benefício.",
     "cpu": "Ryzen 7 5700U",
     "ram": "16GB DDR4",
@@ -43,7 +43,7 @@
   },
   {
     "nome": "Lenovo IdeaPad Slim 3 (i5 13ª, IPS)",
-    "imagem": "../img/ideapad.avif",
+    "imagem": "img/ideapad.avif",
     "descricao": "Notebook com tela IPS, leve, expansível e com desempenho decente para trabalho e estudos.",
     "cpu": "Intel Core i5-1335U",
     "ram": "8GB (soldada, com slot adicional)",
@@ -57,7 +57,7 @@
   },
   {
     "nome": "VAIO FE16",
-    "imagem": "../img/vaio.webp",
+    "imagem": "img/vaio.webp",
     "descricao": "Modelo com construção elegante e bom desempenho para tarefas do dia a dia.",
     "cpu": "Intel Core i5-1235U",
     "ram": "8GB DDR4",
@@ -70,3 +70,4 @@
     "perfil": ["Usuário", "Trabalho leve", "Conforto visual"]
   }
 ]
+
